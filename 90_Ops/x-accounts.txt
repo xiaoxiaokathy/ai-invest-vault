@@ -1,0 +1,6 @@
+# Official AI-chip and memory-company accounts; one handle per line.
+nvidia
+MicronTech
+AMD
+intel
+SKhynix

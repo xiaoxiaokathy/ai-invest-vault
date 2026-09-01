@@ -1,0 +1,2804 @@
+{
+  "nodes": [
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-001",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-001",
+        "ticker": "MU",
+        "direction": "bull",
+        "headline": "Micron launches a U.S.-based memory research institution in Boise backed by $10B planned investment",
+        "claim": "Micron launches a U.S.-based memory research institution in Boise backed by $10B planned investment → deepens U.S. memory R&D and long-term capacity",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "weak_signal",
+        "signal_strength": "2",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "Micron launches a U.S.-based memory research institution in Boise backed by $10B planned investment",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-1495766b48b0bfd4\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "stack_position": "wafer_fabrication",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-001.md"
+      }
+    },
+    {
+      "label": "Company",
+      "primary_key_value": "MU",
+      "properties": {
+        "domain": "invest",
+        "name": "MU",
+        "ticker": "MU"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-002",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-002",
+        "ticker": "NVDA",
+        "direction": "bull",
+        "headline": "First NVIDIA Vera Rubin racks are powering OpenAI's training stack",
+        "claim": "First NVIDIA Vera Rubin racks are powering OpenAI's training stack → Vera Rubin ramps into a flagship AI lab deployment",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "weak_signal",
+        "signal_strength": "2",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "First NVIDIA Vera Rubin racks are powering OpenAI's training stack",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-56391e7c0c1e7e3d\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "AI datacenter compute",
+        "stack_position": "system_integration",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-002.md"
+      }
+    },
+    {
+      "label": "Company",
+      "primary_key_value": "NVDA",
+      "properties": {
+        "domain": "invest",
+        "name": "NVDA",
+        "ticker": "NVDA"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-003",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-003",
+        "ticker": "MU",
+        "direction": "bull",
+        "headline": "Micron is delivering cutting-edge memory and storage fueling Waymo's automotive platform",
+        "claim": "Micron is delivering cutting-edge memory and storage fueling Waymo's automotive platform → expands Micron's automotive memory design wins",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "weak_signal",
+        "signal_strength": "2",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "Micron is delivering cutting-edge memory and storage fueling Waymo's automotive platform",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-7d005453b26d4a22\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "autonomous driving",
+        "stack_position": "wafer_fabrication",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-003.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-004",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-004",
+        "ticker": "AMD",
+        "direction": "bull",
+        "headline": "AMD Instinct MI455X and CDNA 5 bring memory, bandwidth, packaging and rack-scale advances",
+        "claim": "AMD Instinct MI455X and CDNA 5 bring memory, bandwidth, packaging and rack-scale advances → strengthens AMD's next-gen AI accelerator lineup",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "noise",
+        "signal_strength": "1",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "AMD Instinct MI455X and CDNA 5 bring memory, bandwidth, packaging and rack-scale advances",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-a36fcfdce0d907bd\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "AI accelerator compute",
+        "stack_position": "chip_design",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-004.md"
+      }
+    },
+    {
+      "label": "Company",
+      "primary_key_value": "AMD",
+      "properties": {
+        "domain": "invest",
+        "name": "AMD",
+        "ticker": "AMD"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-005",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-005",
+        "ticker": "NVDA",
+        "direction": "bull",
+        "headline": "NVIDIA Vera Rubin is ramping into full production",
+        "claim": "NVIDIA Vera Rubin is ramping into full production → next-gen GPU revenue ramp begins",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "weak_signal",
+        "signal_strength": "2",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "NVIDIA Vera Rubin is ramping into full production",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-0e8645a0e78b4570\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "AI datacenter compute",
+        "stack_position": "chip_design",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-005.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-006",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-006",
+        "ticker": "MU",
+        "direction": "bull",
+        "headline": "Memory capacity becomes a key factor in AI inference performance for long-context workloads",
+        "claim": "Memory capacity becomes a key factor in AI inference performance for long-context workloads → supports growing memory demand for AI inference",
+        "strength": "2",
+        "status": "pending",
+        "signal_classification": "weak_signal",
+        "signal_strength": "2",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "Memory capacity becomes a key factor in AI inference performance for long-context workloads",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-83a29de1d9903163\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "AI inference",
+        "stack_position": "wafer_fabrication",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-006.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-007",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-007",
+        "ticker": "NVDA",
+        "direction": "bull",
+        "headline": "Vera Rubin delivers up to 30x more throughput per megawatt and 35x lower token cost than GB300 NVL72",
+        "claim": "Vera Rubin delivers up to 30x more throughput per megawatt and 35x lower token cost than GB300 NVL72 → step-function efficiency gain sustains NVDA AI leadership",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "noise",
+        "signal_strength": "1",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "Vera Rubin delivers up to 30x more throughput per megawatt and 35x lower token cost than GB300 NVL72",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-637a85dec8537740\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "agentic AI",
+        "stack_position": "chip_design",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-007.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-008",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-008",
+        "ticker": "NVDA",
+        "direction": "bull",
+        "headline": "SpaceX is deploying NVIDIA Vera CPU to accelerate its next-generation agentic AI",
+        "claim": "SpaceX is deploying NVIDIA Vera CPU to accelerate its next-generation agentic AI → Vera CPU lands a marquee hyperscale design win",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "weak_signal",
+        "signal_strength": "2",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "SpaceX is deploying NVIDIA Vera CPU to accelerate its next-generation agentic AI",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-5d0f896d4eb915db\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "agentic AI",
+        "stack_position": "chip_design",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-008.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-009",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-009",
+        "ticker": "INTC",
+        "direction": "bull",
+        "headline": "Intel 18A-P process delivers improved performance, power efficiency and thermal resistance",
+        "claim": "Intel 18A-P process delivers improved performance, power efficiency and thermal resistance → strengthens Intel's advanced-node foundry roadmap",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "noise",
+        "signal_strength": "1",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "Intel 18A-P process delivers improved performance, power efficiency and thermal resistance",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-f2eb7225653881f1\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "stack_position": "wafer_fabrication",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-009.md"
+      }
+    },
+    {
+      "label": "Company",
+      "primary_key_value": "INTC",
+      "properties": {
+        "domain": "invest",
+        "name": "INTC",
+        "ticker": "INTC"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-010",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-010",
+        "ticker": "NVDA",
+        "direction": "bull",
+        "headline": "NVIDIA Vera Rubin NVL72 production racks are here",
+        "claim": "NVIDIA Vera Rubin NVL72 production racks are here → next-gen NVL72 volume ramp underway",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "weak_signal",
+        "signal_strength": "2",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "NVIDIA Vera Rubin NVL72 production racks are here",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-83d5a732c78c9e0d\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "AI datacenter compute",
+        "stack_position": "system_integration",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-010.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-011",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-011",
+        "ticker": "NVDA",
+        "direction": "bull",
+        "headline": "Microsoft operates the first Vera Rubin NVL72 deployment",
+        "claim": "Microsoft operates the first Vera Rubin NVL72 deployment → cloud hyperscaler commits to NVIDIA next-gen rack systems",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "weak_signal",
+        "signal_strength": "2",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "Microsoft operates the first Vera Rubin NVL72 deployment",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-9df2204e1c2829ef\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "AI datacenter compute",
+        "stack_position": "system_integration",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-011.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-012",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-012",
+        "ticker": "NVDA",
+        "direction": "bull",
+        "headline": "Perplexity launches a local-first agent stack on NVIDIA DGX Spark",
+        "claim": "Perplexity launches a local-first agent stack on NVIDIA DGX Spark → extends NVIDIA agentic AI to local and edge compute",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "noise",
+        "signal_strength": "1",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "Perplexity launches a local-first agent stack on NVIDIA DGX Spark",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-c4b9b45d4832a942\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "edge AI inference",
+        "stack_position": "system_integration",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-012.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-013",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-013",
+        "ticker": "MU",
+        "direction": "bull",
+        "headline": "Micron launches a U.S.-based memory research hub in Boise backed by a planned $10B decade investment",
+        "claim": "Micron launches a U.S.-based memory research hub in Boise backed by a planned $10B decade investment → strengthens long-term memory technology leadership",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "noise",
+        "signal_strength": "1",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "Micron launches a U.S.-based memory research hub in Boise backed by a planned $10B decade investment",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-1495766b48b0bfd4\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-013.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-014",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-014",
+        "ticker": "NVDA",
+        "direction": "bull",
+        "headline": "First NVIDIA Vera Rubin racks are powering OpenAI's training stack",
+        "claim": "First NVIDIA Vera Rubin racks are powering OpenAI's training stack → NVDA secures frontier AI training compute deployment",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "weak_signal",
+        "signal_strength": "2",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "First NVIDIA Vera Rubin racks are powering OpenAI's training stack",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-d1683ff80c24b774\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "AI datacenter training compute",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-014.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-015",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-015",
+        "ticker": "MU",
+        "direction": "bull",
+        "headline": "Micron deepens commitment to the automotive ecosystem delivering cutting-edge memory and storage",
+        "claim": "Micron deepens commitment to the automotive ecosystem delivering cutting-edge memory and storage → expands MU automotive memory footprint",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "noise",
+        "signal_strength": "1",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "Micron deepens commitment to the automotive ecosystem delivering cutting-edge memory and storage",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-b2ab879c54a6c81f\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "autonomous driving memory",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-015.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-016",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-016",
+        "ticker": "AMD",
+        "direction": "bull",
+        "headline": "AMD Instinct MI455X and CDNA 5 deliver memory, bandwidth, packaging and rack-scale advances",
+        "claim": "AMD Instinct MI455X and CDNA 5 deliver memory, bandwidth, packaging and rack-scale advances → strengthens next-gen Instinct accelerator competitiveness",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "noise",
+        "signal_strength": "1",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "AMD Instinct MI455X and CDNA 5 deliver memory, bandwidth, packaging and rack-scale advances",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-9094279900775021\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "AI datacenter accelerators",
+        "stack_position": "chip_design",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-016.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-017",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-017",
+        "ticker": "NVDA",
+        "direction": "bull",
+        "headline": "NVIDIA Vera Rubin is ramping into full production",
+        "claim": "NVIDIA Vera Rubin is ramping into full production → NVDA next-gen AI accelerator revenue scales",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "weak_signal",
+        "signal_strength": "2",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "NVIDIA Vera Rubin is ramping into full production",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-0e8645a0e78b4570\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "AI datacenter compute",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-017.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-018",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-018",
+        "ticker": "NVDA",
+        "direction": "bull",
+        "headline": "NVIDIA Vera Rubin delivers up to 30x more throughput per megawatt and 35x lower token cost than GB300 NVL72",
+        "claim": "NVIDIA Vera Rubin delivers up to 30x more throughput per megawatt and 35x lower token cost than GB300 NVL72 → compelling upgrade economics for agentic AI",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "noise",
+        "signal_strength": "1",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "NVIDIA Vera Rubin delivers up to 30x more throughput per megawatt and 35x lower token cost than GB300 NVL72",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-637a85dec8537740\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "agentic AI inference",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-018.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-019",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-019",
+        "ticker": "NVDA",
+        "direction": "bull",
+        "headline": "SpaceX is deploying NVIDIA Vera to accelerate orchestration, code execution and data processing for agentic AI",
+        "claim": "SpaceX is deploying NVIDIA Vera to accelerate orchestration, code execution and data processing for agentic AI → new hyperscaler-class customer for Vera CPU",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "weak_signal",
+        "signal_strength": "2",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "SpaceX is deploying NVIDIA Vera to accelerate orchestration, code execution and data processing for agentic AI",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-5d0f896d4eb915db\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "demand_wave": "agentic AI orchestration compute",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-019.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-020",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-020",
+        "ticker": "INTC",
+        "direction": "bull",
+        "headline": "Intel 18A-P, the first derivative of Intel 18A process, enables faster computing and better battery life",
+        "claim": "Intel 18A-P, the first derivative of Intel 18A process, enables faster computing and better battery life → strengthens Intel process roadmap",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "noise",
+        "signal_strength": "1",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "Intel 18A-P, the first derivative of Intel 18A process, enables faster computing and better battery life",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-f2eb7225653881f1\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "stack_position": "wafer_fabrication",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-020.md"
+      }
+    },
+    {
+      "label": "Thesis",
+      "primary_key_value": "THESIS-2026-021",
+      "properties": {
+        "domain": "invest",
+        "thesis_id": "THESIS-2026-021",
+        "ticker": "NVDA",
+        "direction": "bull",
+        "headline": "NVIDIA Vera Rubin NVL72 production racks are here",
+        "claim": "NVIDIA Vera Rubin NVL72 production racks are here → NVDA next-gen rack-scale production scaling",
+        "strength": "1",
+        "status": "pending",
+        "signal_classification": "weak_signal",
+        "signal_strength": "2",
+        "source_url": "",
+        "source_type": "article",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "related_links": "",
+        "key_insight": "NVIDIA Vera Rubin NVL72 production racks are here",
+        "next_action": "verify contrary evidence",
+        "supporting_evidence": "[\"EVIDENCE-83d5a732c78c9e0d\"]",
+        "contradicting_evidence": "[]",
+        "horizon": "pending",
+        "falsifiers": "[]",
+        "expected_event": "pending",
+        "refresh_trigger": "new evidence",
+        "stale_after": "",
+        "stack_position": "system_integration",
+        "evidence_type": "x_tweet",
+        "semantic_label": "keep_deweighted",
+        "obsidian_path": "40_Thesis\\discovery\\THESIS-2026-021.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-0e8645a0e78b4570",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-0e8645a0e78b4570",
+        "source_id": "X-2090944279103635481",
+        "quote": "NVIDIA Vera Rubin is ramping into full production.",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/nvidia/status/2090944279103635481",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-22",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "NVIDIA Vera Rubin is ramping into full production → next-gen GPU revenue ramp begins",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-0e8645a0e78b4570.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090944279103635481",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090944279103635481",
+        "source_id": "X-2090944279103635481",
+        "source_url": "https://x.com/nvidia/status/2090944279103635481",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-22",
+        "content_hash": "b615745bd1b2aa2fa91e362097955940097b75a89c410deffb07d0cff917ef08",
+        "related_links": "",
+        "key_insight": "Official post from @nvidia; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090944279103635481.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-1495766b48b0bfd4",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-1495766b48b0bfd4",
+        "source_id": "X-2090423868175626355",
+        "quote": "Introducing Micron Research Labs — a U.S.-based long-horizon research institution in Boise, backed by a planned $10B investment over the next decade.",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/MicronTech/status/2090423868175626355",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-20",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "Micron launches a U.S.-based memory research institution in Boise backed by $10B planned investment → deepens U.S. memory R&D and long-term capacity",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-1495766b48b0bfd4.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090423868175626355",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090423868175626355",
+        "source_id": "X-2090423868175626355",
+        "source_url": "https://x.com/MicronTech/status/2090423868175626355",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-20",
+        "content_hash": "242d5d77d2b9d24376af7aca710081bd837ca4470464ef30add510a844157f29",
+        "related_links": "",
+        "key_insight": "Official post from @MicronTech; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090423868175626355.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-56391e7c0c1e7e3d",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-56391e7c0c1e7e3d",
+        "source_id": "X-2090473127658570184",
+        "quote": "the first NVIDIA Vera Rubin racks powering @OpenAI",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/nvidia/status/2090473127658570184",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-21",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "First NVIDIA Vera Rubin racks are powering OpenAI's training stack → Vera Rubin ramps into a flagship AI lab deployment",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-56391e7c0c1e7e3d.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090473127658570184",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090473127658570184",
+        "source_id": "X-2090473127658570184",
+        "source_url": "https://x.com/nvidia/status/2090473127658570184",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-21",
+        "content_hash": "b7ca64e999311ddcd7ab54814278ebe2ae65b827993120c7abaac3287900ab30",
+        "related_links": "",
+        "key_insight": "Official post from @nvidia; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090473127658570184.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-5d0f896d4eb915db",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-5d0f896d4eb915db",
+        "source_id": "X-2091920680317046847",
+        "quote": "@SpaceX is deploying NVIDIA Vera to accelerate the orchestration, code execution, and data processing that powers its next generation of agentic AI",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/nvidia/status/2091920680317046847",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-25",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "SpaceX is deploying NVIDIA Vera CPU to accelerate its next-generation agentic AI → Vera CPU lands a marquee hyperscale design win",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-5d0f896d4eb915db.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091920680317046847",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091920680317046847",
+        "source_id": "X-2091920680317046847",
+        "source_url": "https://x.com/nvidia/status/2091920680317046847",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-25",
+        "content_hash": "2fe8115861878842f2369a03de41f7242dc5ec632ac78bcbe9f861838bdc8a38",
+        "related_links": "",
+        "key_insight": "Official post from @nvidia; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091920680317046847.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-637a85dec8537740",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-637a85dec8537740",
+        "source_id": "X-2091904062077694153",
+        "quote": "Up to 30x more throughput per megawatt and up to 35x lower token cost than GB300 NVL72.",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/nvidia/status/2091904062077694153",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-24",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "Vera Rubin delivers up to 30x more throughput per megawatt and 35x lower token cost than GB300 NVL72 → step-function efficiency gain sustains NVDA AI leadership",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-637a85dec8537740.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091904062077694153",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091904062077694153",
+        "source_id": "X-2091904062077694153",
+        "source_url": "https://x.com/nvidia/status/2091904062077694153",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-24",
+        "content_hash": "ec80c1f4e271da3aeab8a2d2e2006813449b384dcab73a0cc75a3b0e4e4a6e0d",
+        "related_links": "",
+        "key_insight": "Official post from @nvidia; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091904062077694153.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-7d005453b26d4a22",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-7d005453b26d4a22",
+        "source_id": "X-2090851872093741444",
+        "quote": "we are delivering the cutting-edge memory and storage that makes this possible, fueling @Waymo",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/MicronTech/status/2090851872093741444",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-22",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "Micron is delivering cutting-edge memory and storage fueling Waymo's automotive platform → expands Micron's automotive memory design wins",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-7d005453b26d4a22.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090851872093741444",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090851872093741444",
+        "source_id": "X-2090851872093741444",
+        "source_url": "https://x.com/MicronTech/status/2090851872093741444",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-22",
+        "content_hash": "ea8312e0ceb76416985baa24ab0ba5c4ed6accf9839f84dfc29876562713bed5",
+        "related_links": "",
+        "key_insight": "Official post from @MicronTech; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090851872093741444.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-83a29de1d9903163",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-83a29de1d9903163",
+        "source_id": "X-2091208925664424422",
+        "quote": "memory capacity can become a key factor in AI inference performance, especially for long-context workloads",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/MicronTech/status/2091208925664424422",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-23",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "Memory capacity becomes a key factor in AI inference performance for long-context workloads → supports growing memory demand for AI inference",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-83a29de1d9903163.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091208925664424422",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091208925664424422",
+        "source_id": "X-2091208925664424422",
+        "source_url": "https://x.com/MicronTech/status/2091208925664424422",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-23",
+        "content_hash": "810ca942d5322ffc7d0e9e7d316b800fa963375c95242b6cf9589b440dfe2f67",
+        "related_links": "",
+        "key_insight": "Official post from @MicronTech; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091208925664424422.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-83d5a732c78c9e0d",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-83d5a732c78c9e0d",
+        "source_id": "X-2092337107108770116",
+        "quote": "NVIDIA Vera Rubin NVL72 production racks are here.",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/nvidia/status/2092337107108770116",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-26",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "NVIDIA Vera Rubin NVL72 production racks are here → next-gen NVL72 volume ramp underway",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-83d5a732c78c9e0d.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092337107108770116",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092337107108770116",
+        "source_id": "X-2092337107108770116",
+        "source_url": "https://x.com/nvidia/status/2092337107108770116",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-26",
+        "content_hash": "b84d899a6ca2c31e7cdd050651bf5094d7ca0fd987ab1e03def523367f11348a",
+        "related_links": "",
+        "key_insight": "Official post from @nvidia; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092337107108770116.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-9094279900775021",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-9094279900775021",
+        "source_id": "X-2090914360109502942",
+        "quote": "AMD Instinct MI455X and CDNA 5, exploring the memory, bandwidth, packaging and rack-scale advances behind the next era of Instinct accelerators.",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/AMD/status/2090914360109502942",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-22",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "AMD Instinct MI455X and CDNA 5 deliver memory, bandwidth, packaging and rack-scale advances → strengthens next-gen Instinct accelerator competitiveness",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-9094279900775021.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090914360109502942",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090914360109502942",
+        "source_id": "X-2090914360109502942",
+        "source_url": "https://x.com/AMD/status/2090914360109502942",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-22",
+        "content_hash": "fcd93382da3e3ac9a109582c441d167c69d2cb612ab1a3942c79242905e5cb87",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090914360109502942.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-9df2204e1c2829ef",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-9df2204e1c2829ef",
+        "source_id": "X-2092337107108770116",
+        "quote": "Congratulations to @Microsoft on the first operational Vera Rubin NVL72",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/nvidia/status/2092337107108770116",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-26",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "Microsoft operates the first Vera Rubin NVL72 deployment → cloud hyperscaler commits to NVIDIA next-gen rack systems",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-9df2204e1c2829ef.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-a36fcfdce0d907bd",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-a36fcfdce0d907bd",
+        "source_id": "X-2090914360109502942",
+        "quote": "AMD Instinct MI455X and CDNA 5, exploring the memory, bandwidth, packaging and rack-scale advances behind the next era of Instinct accelerators",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/AMD/status/2090914360109502942",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-22",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "AMD Instinct MI455X and CDNA 5 bring memory, bandwidth, packaging and rack-scale advances → strengthens AMD's next-gen AI accelerator lineup",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-a36fcfdce0d907bd.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-b2ab879c54a6c81f",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-b2ab879c54a6c81f",
+        "source_id": "X-2090851872093741444",
+        "quote": "As we deepen our commitment to the automotive ecosystem, we are delivering the cutting-edge memory and storage that makes this possible",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/MicronTech/status/2090851872093741444",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-22",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "Micron deepens commitment to the automotive ecosystem delivering cutting-edge memory and storage → expands MU automotive memory footprint",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-b2ab879c54a6c81f.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-c4b9b45d4832a942",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-c4b9b45d4832a942",
+        "source_id": "X-2092269109086126575",
+        "quote": "Meet Portable Computer, Perplexity's new local-first agent stack on NVIDIA DGX Spark.",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/nvidia/status/2092269109086126575",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-25",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "Perplexity launches a local-first agent stack on NVIDIA DGX Spark → extends NVIDIA agentic AI to local and edge compute",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-c4b9b45d4832a942.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092269109086126575",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092269109086126575",
+        "source_id": "X-2092269109086126575",
+        "source_url": "https://x.com/nvidia/status/2092269109086126575",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-25",
+        "content_hash": "f4472a12e24e9535df5ccb7462220e00af2640404a61d32602e2dcfe937b26af",
+        "related_links": "",
+        "key_insight": "Official post from @nvidia; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092269109086126575.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-d1683ff80c24b774",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-d1683ff80c24b774",
+        "source_id": "X-2090473127658570184",
+        "quote": "the first NVIDIA Vera Rubin racks powering @OpenAI 's training stack",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/nvidia/status/2090473127658570184",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-21",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "First NVIDIA Vera Rubin racks are powering OpenAI's training stack → NVDA secures frontier AI training compute deployment",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-d1683ff80c24b774.md"
+      }
+    },
+    {
+      "label": "Evidence",
+      "primary_key_value": "EVIDENCE-f2eb7225653881f1",
+      "properties": {
+        "domain": "invest",
+        "evidence_id": "EVIDENCE-f2eb7225653881f1",
+        "source_id": "X-2092284741290541343",
+        "quote": "With improved performance, power efficiency, and thermal resistance, Intel 18A-P can enable faster computing and better battery life.",
+        "locator": "full_text",
+        "status": "verified",
+        "source_url": "https://x.com/intel/status/2092284741290541343",
+        "source_type": "x_tweet",
+        "evidence_level": "secondary",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-26",
+        "evidence_type": "x_tweet",
+        "related_links": "",
+        "key_insight": "Intel 18A-P process delivers improved performance, power efficiency and thermal resistance → strengthens Intel's advanced-node foundry roadmap",
+        "next_action": "verify contrary evidence",
+        "obsidian_path": "30_Wiki\\Sources\\EVIDENCE-f2eb7225653881f1.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092284741290541343",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092284741290541343",
+        "source_id": "X-2092284741290541343",
+        "source_url": "https://x.com/intel/status/2092284741290541343",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-26",
+        "content_hash": "ea21fe1911e13c67324c9572e4d94f9ceff767ef93b1bb4a38226e7836a0447b",
+        "related_links": "",
+        "key_insight": "Official post from @intel; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092284741290541343.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "kg-architecture-method",
+      "properties": {
+        "domain": "invest",
+        "name": "kg-architecture-method",
+        "source_url": "file:///D:/dxx/agentic-kg/scripts/export_graph_viz.py",
+        "source_type": "project_implementation",
+        "problem_solved": "将教程作者缺失的私有图谱架构材料落到当前项目可执行约束。",
+        "use_case": "实现 S7 图 JSON、S8 Neo4j 幂等加载和图谱可视化时。",
+        "key_insight": "图谱需按 9 类节点、主键和 domain=invest 隔离构建，并始终可由 Vault 重建。",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-26",
+        "related_links": "[[SCHEMA]] [[Theses]] [[Evidence]]",
+        "obsidian_path": "20_Raw\\article\\kg-architecture-method.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090393516857856391",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090393516857856391",
+        "source_id": "X-2090393516857856391",
+        "source_url": "https://x.com/AMD/status/2090393516857856391",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-20",
+        "content_hash": "98d7ba43e5de48d53f73f5df193eebabffc3c8ba28ca81c602b61d4d4c9c0202",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090393516857856391.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090434936301851074",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090434936301851074",
+        "source_id": "X-2090434936301851074",
+        "source_url": "https://x.com/intel/status/2090434936301851074",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-20",
+        "content_hash": "6f3b0f775d3203a3e3ff62e7c0d7ef3cc2244f2661a1106e483ac9e46d85fc98",
+        "related_links": "",
+        "key_insight": "Official post from @intel; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090434936301851074.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090452549715509516",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090452549715509516",
+        "source_id": "X-2090452549715509516",
+        "source_url": "https://x.com/AMD/status/2090452549715509516",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-20",
+        "content_hash": "1fedea7a35d1ac00a0a93f1f69bb1279113992fa8e5d9df13e2fcc988d10db13",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090452549715509516.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090491566011875812",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090491566011875812",
+        "source_id": "X-2090491566011875812",
+        "source_url": "https://x.com/AMD/status/2090491566011875812",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-21",
+        "content_hash": "3b050d996d917d4f3cd337799cd96cf46fccd52f60062c2ae884ab2dfc2508b1",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090491566011875812.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090516367929753882",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090516367929753882",
+        "source_id": "X-2090516367929753882",
+        "source_url": "https://x.com/AMD/status/2090516367929753882",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-21",
+        "content_hash": "a1a7932c58fc70e942e7218f2e211bc9e0654c1983d4edcc0b474ddc5a459313",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090516367929753882.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090548358868070801",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090548358868070801",
+        "source_id": "X-2090548358868070801",
+        "source_url": "https://x.com/nvidia/status/2090548358868070801",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-21",
+        "content_hash": "7f2af314ce059a9e9a9e10409c7c7ddbd2eb85b9fbf81af1cbdb782164b4890f",
+        "related_links": "",
+        "key_insight": "Official post from @nvidia; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090548358868070801.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090548393051578558",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090548393051578558",
+        "source_id": "X-2090548393051578558",
+        "source_url": "https://x.com/nvidia/status/2090548393051578558",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-21",
+        "content_hash": "de8f4b48f90f502f66de8e0073748449b2ae7c5f661d412c4307fab8d6cd0907",
+        "related_links": "",
+        "key_insight": "Official post from @nvidia; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090548393051578558.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090811751419744578",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090811751419744578",
+        "source_id": "X-2090811751419744578",
+        "source_url": "https://x.com/AMD/status/2090811751419744578",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-21",
+        "content_hash": "dc26b5e5329f3d26ba15514e36183b0ee063d64b9b5203020b50183cd70b4e32",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090811751419744578.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090846851750621485",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090846851750621485",
+        "source_id": "X-2090846851750621485",
+        "source_url": "https://x.com/AMD/status/2090846851750621485",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-22",
+        "content_hash": "50cdab4a516e750b37d60c2a45bad5538e26e3da618171bab7a633655c73408a",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090846851750621485.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2090865252292595855",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2090865252292595855",
+        "source_id": "X-2090865252292595855",
+        "source_url": "https://x.com/MicronTech/status/2090865252292595855",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-22",
+        "content_hash": "e2b352e302af93b51a9a746b3cd83a7f6b48c55cdad6e6710136f374eca28300",
+        "related_links": "",
+        "key_insight": "Official post from @MicronTech; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2090865252292595855.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091174606875070964",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091174606875070964",
+        "source_id": "X-2091174606875070964",
+        "source_url": "https://x.com/intel/status/2091174606875070964",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-22",
+        "content_hash": "2ff8708979cfc555e686a58289228edc18050173d9d1f7cc74f056aef3858091",
+        "related_links": "",
+        "key_insight": "Official post from @intel; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091174606875070964.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091249155024789599",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091249155024789599",
+        "source_id": "X-2091249155024789599",
+        "source_url": "https://x.com/AMD/status/2091249155024789599",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-23",
+        "content_hash": "6167ec19c2bcd9f56bad95af6d4e27c31c62707f2ef7e5570a56295fbba1f9f5",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091249155024789599.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091306925606711800",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091306925606711800",
+        "source_id": "X-2091306925606711800",
+        "source_url": "https://x.com/intel/status/2091306925606711800",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-23",
+        "content_hash": "7c1b56cc6f4389506ffaf88b518cbbd40d6e65e2f13c673e27ceb4182d2a87d3",
+        "related_links": "",
+        "key_insight": "Official post from @intel; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091306925606711800.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091525919810719927",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091525919810719927",
+        "source_id": "X-2091525919810719927",
+        "source_url": "https://x.com/AMD/status/2091525919810719927",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-23",
+        "content_hash": "64bd88c409522648fa99d41f68670be47a990e7876103e7f19d1a020c5b4079b",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091525919810719927.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091551313255698852",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091551313255698852",
+        "source_id": "X-2091551313255698852",
+        "source_url": "https://x.com/intel/status/2091551313255698852",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-23",
+        "content_hash": "70354e8ae217d8cb5d1128c6b46549d23487e23e62153bfcd50a7166682270f9",
+        "related_links": "",
+        "key_insight": "Official post from @intel; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091551313255698852.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091560613910847683",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091560613910847683",
+        "source_id": "X-2091560613910847683",
+        "source_url": "https://x.com/intel/status/2091560613910847683",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-24",
+        "content_hash": "0262140c960becec56fdb7b434cd70f7efba6f1485884472b87078d53127ae40",
+        "related_links": "",
+        "key_insight": "Official post from @intel; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091560613910847683.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091663314036396223",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091663314036396223",
+        "source_id": "X-2091663314036396223",
+        "source_url": "https://x.com/intel/status/2091663314036396223",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-24",
+        "content_hash": "c0c9bb895c7b944b979fa404bbe0a45ae7db8b0db48de267f0e75be3fd445768",
+        "related_links": "",
+        "key_insight": "Official post from @intel; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091663314036396223.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091888764947755469",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091888764947755469",
+        "source_id": "X-2091888764947755469",
+        "source_url": "https://x.com/intel/status/2091888764947755469",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-24",
+        "content_hash": "c73e4a7d83de2ccba194a7857bbe1687a015e816bfff1e4dfe90b8d285855ebd",
+        "related_links": "",
+        "key_insight": "Official post from @intel; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091888764947755469.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091890403511316831",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091890403511316831",
+        "source_id": "X-2091890403511316831",
+        "source_url": "https://x.com/AMD/status/2091890403511316831",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-24",
+        "content_hash": "9743b762abb0225cf379e63634b04241fffe72e31daf082cff3771700db9a50e",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091890403511316831.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091904064057385424",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091904064057385424",
+        "source_id": "X-2091904064057385424",
+        "source_url": "https://x.com/nvidia/status/2091904064057385424",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-24",
+        "content_hash": "c07315b1a2564bf7739ec60fc8a25d3d1ed09cf9e4c6d1ceaa4c9f78d2acfe94",
+        "related_links": "",
+        "key_insight": "Official post from @nvidia; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091904064057385424.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091910948302819468",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091910948302819468",
+        "source_id": "X-2091910948302819468",
+        "source_url": "https://x.com/AMD/status/2091910948302819468",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-24",
+        "content_hash": "1607c5b32ae731f28d1b5a3932269cdd9401153406982569e40bca6d01300c85",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091910948302819468.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091920682112139685",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091920682112139685",
+        "source_id": "X-2091920682112139685",
+        "source_url": "https://x.com/nvidia/status/2091920682112139685",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-25",
+        "content_hash": "2161e72055c46a4638bdbaae3d7aacf6883ea80b3640d5ba8fe4a1e10027ce4b",
+        "related_links": "",
+        "key_insight": "Official post from @nvidia; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091920682112139685.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091927337273274556",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091927337273274556",
+        "source_id": "X-2091927337273274556",
+        "source_url": "https://x.com/MicronTech/status/2091927337273274556",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-25",
+        "content_hash": "258fe25f948a0d369f626452a03a15c4f54f91ecb6dc6e688c410269ab676df2",
+        "related_links": "",
+        "key_insight": "Official post from @MicronTech; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091927337273274556.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091973784647451096",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091973784647451096",
+        "source_id": "X-2091973784647451096",
+        "source_url": "https://x.com/nvidia/status/2091973784647451096",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-25",
+        "content_hash": "a953445e059219e9eb82238c62ed52b8fceaa618b5710d002fa2f7f885b8be61",
+        "related_links": "",
+        "key_insight": "Official post from @nvidia; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091973784647451096.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2091973786002145503",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2091973786002145503",
+        "source_id": "X-2091973786002145503",
+        "source_url": "https://x.com/nvidia/status/2091973786002145503",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-25",
+        "content_hash": "0f2cb40e8fa6400b65e8e733160bdaed792ee8d157efbc8901e988b45b7f1702",
+        "related_links": "",
+        "key_insight": "Official post from @nvidia; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2091973786002145503.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092010923691028653",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092010923691028653",
+        "source_id": "X-2092010923691028653",
+        "source_url": "https://x.com/AMD/status/2092010923691028653",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-25",
+        "content_hash": "0e82d3080b9a4cf8e682c7be6916a8da20358ce12d00b9e88f4365a158540d18",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092010923691028653.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092048575987614017",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092048575987614017",
+        "source_id": "X-2092048575987614017",
+        "source_url": "https://x.com/MicronTech/status/2092048575987614017",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-25",
+        "content_hash": "02b69fd3d0d3864e09f093b0e2f4c1537c4a19653c73251e2de78cda87d4e162",
+        "related_links": "",
+        "key_insight": "Official post from @MicronTech; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092048575987614017.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092258387014668773",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092258387014668773",
+        "source_id": "X-2092258387014668773",
+        "source_url": "https://x.com/AMD/status/2092258387014668773",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-25",
+        "content_hash": "e4a30076bec5df70132475b046970054c547164259a86d884f299a6cc1565bc7",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092258387014668773.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092258391435452692",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092258391435452692",
+        "source_id": "X-2092258391435452692",
+        "source_url": "https://x.com/AMD/status/2092258391435452692",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-25",
+        "content_hash": "bb20172e3f0d122d65fdc2d400e7604a2cdc6871d81432306c9c457725cdc7f7",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092258391435452692.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092357080413794374",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092357080413794374",
+        "source_id": "X-2092357080413794374",
+        "source_url": "https://x.com/intel/status/2092357080413794374",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-26",
+        "content_hash": "1fba3f85b55991bba65840f9588c66600f7968aa24d73678bc72f10138e7c04b",
+        "related_links": "",
+        "key_insight": "Official post from @intel; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092357080413794374.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092390101959479713",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092390101959479713",
+        "source_id": "X-2092390101959479713",
+        "source_url": "https://x.com/nvidia/status/2092390101959479713",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-26",
+        "content_hash": "d44ca6001b03f3f64cf81aaffa2d909e5e0d90a8a0bf44b53d1392728583feaa",
+        "related_links": "",
+        "key_insight": "Official post from @nvidia; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092390101959479713.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092396025373921604",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092396025373921604",
+        "source_id": "X-2092396025373921604",
+        "source_url": "https://x.com/MicronTech/status/2092396025373921604",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-26",
+        "content_hash": "58a810fd9e3cce656e78cfa878ec58cf4992005caf7eea630e4c0c286ff364f1",
+        "related_links": "",
+        "key_insight": "Official post from @MicronTech; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092396025373921604.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092636106588143741",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092636106588143741",
+        "source_id": "X-2092636106588143741",
+        "source_url": "https://x.com/AMD/status/2092636106588143741",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-26",
+        "content_hash": "0c34bc6bcb58a9b52ebeb99d98a92c742d2e42ac07b22b818a2bd2eba3f20e6b",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092636106588143741.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092665714188624155",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092665714188624155",
+        "source_id": "X-2092665714188624155",
+        "source_url": "https://x.com/MicronTech/status/2092665714188624155",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-27",
+        "content_hash": "dde6f2b3baa9be8786c2e60c1bccf8a3bc5ef22fa831a728135fa637506c4b1d",
+        "related_links": "",
+        "key_insight": "Official post from @MicronTech; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092665714188624155.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092695414373859688",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092695414373859688",
+        "source_id": "X-2092695414373859688",
+        "source_url": "https://x.com/intel/status/2092695414373859688",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-27",
+        "content_hash": "0ece311a958b60a00f533f9edd1b5c2303353670653d834327b04d36c9368556",
+        "related_links": "",
+        "key_insight": "Official post from @intel; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092695414373859688.md"
+      }
+    },
+    {
+      "label": "Source",
+      "primary_key_value": "X-2092718778656112786",
+      "properties": {
+        "domain": "invest",
+        "name": "X-2092718778656112786",
+        "source_id": "X-2092718778656112786",
+        "source_url": "https://x.com/AMD/status/2092718778656112786",
+        "source_type": "x_tweet",
+        "evidence_level": "primary_source",
+        "updated_date": "2026-08-27",
+        "published_date": "2026-08-27",
+        "content_hash": "56530a2ad262be8da3c50b0f3af7fc057a2ed0aa1a027ae1cd10c82cc163dc2a",
+        "related_links": "",
+        "key_insight": "Official post from @AMD; raw text retained without investment inference.",
+        "next_action": "Extract only quote-supported claims in a subsequent review.",
+        "obsidian_path": "20_Raw\\x\\X-2092718778656112786.md"
+      }
+    }
+  ],
+  "rels": [
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-001"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "MU"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-001"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-1495766b48b0bfd4"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-002"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "NVDA"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-002"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-56391e7c0c1e7e3d"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-003"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "MU"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-003"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-7d005453b26d4a22"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-004"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "AMD"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-004"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-a36fcfdce0d907bd"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-005"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "NVDA"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-005"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-0e8645a0e78b4570"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-006"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "MU"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-006"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-83a29de1d9903163"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-007"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "NVDA"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-007"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-637a85dec8537740"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-008"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "NVDA"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-008"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-5d0f896d4eb915db"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-009"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "INTC"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-009"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-f2eb7225653881f1"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-010"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "NVDA"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-010"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-83d5a732c78c9e0d"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-011"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "NVDA"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-011"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-9df2204e1c2829ef"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-012"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "NVDA"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-012"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-c4b9b45d4832a942"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-013"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "MU"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-013"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-1495766b48b0bfd4"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-014"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "NVDA"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-014"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-d1683ff80c24b774"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-015"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "MU"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-015"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-b2ab879c54a6c81f"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-016"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "AMD"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-016"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-9094279900775021"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-017"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "NVDA"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-017"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-0e8645a0e78b4570"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-018"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "NVDA"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-018"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-637a85dec8537740"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-019"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "NVDA"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-019"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-5d0f896d4eb915db"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-020"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "INTC"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-020"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-f2eb7225653881f1"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-021"
+      },
+      "dst": {
+        "label": "Company",
+        "key": "NVDA"
+      },
+      "type": "ABOUT",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Thesis",
+        "key": "THESIS-2026-021"
+      },
+      "dst": {
+        "label": "Evidence",
+        "key": "EVIDENCE-83d5a732c78c9e0d"
+      },
+      "type": "CITES",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-0e8645a0e78b4570"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2090944279103635481"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-1495766b48b0bfd4"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2090423868175626355"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-56391e7c0c1e7e3d"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2090473127658570184"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-5d0f896d4eb915db"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2091920680317046847"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-637a85dec8537740"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2091904062077694153"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-7d005453b26d4a22"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2090851872093741444"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-83a29de1d9903163"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2091208925664424422"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-83d5a732c78c9e0d"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2092337107108770116"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-9094279900775021"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2090914360109502942"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-9df2204e1c2829ef"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2092337107108770116"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-a36fcfdce0d907bd"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2090914360109502942"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-b2ab879c54a6c81f"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2090851872093741444"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-c4b9b45d4832a942"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2092269109086126575"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-d1683ff80c24b774"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2090473127658570184"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    },
+    {
+      "src": {
+        "label": "Evidence",
+        "key": "EVIDENCE-f2eb7225653881f1"
+      },
+      "dst": {
+        "label": "Source",
+        "key": "X-2092284741290541343"
+      },
+      "type": "FROM_SOURCE",
+      "properties": {
+        "domain": "invest"
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+# Python / runtime
+__pycache__/
+*.py[cod]
+.venv/
+
+# Sensitive / secrets
+.env
+.env.*
+
+# Obsidian local state (workspace layout is per-machine)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Pipeline intermediate artifacts (regenerable)
+.kg/atomic/inbox/processed/
+.kg/atomic/inbox/todo/
+.kg/atomic/__pycache__/
+90_Ops/_status/
+90_Ops/lint-reports/latest.json
+90_Ops/quarantine/
+
+# Generated viz (regenerable from graph-invest JSON)
+90_Ops/viz/
+
+# OS junk
+.DS_Store
+__MACOSX/
+Thumbs.db
